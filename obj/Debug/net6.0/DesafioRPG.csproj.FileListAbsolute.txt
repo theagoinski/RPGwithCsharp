@@ -1,0 +1,15 @@
+/home/macagogo/Estudos/DIO/DesafioRPG/bin/Debug/net6.0/DesafioRPG
+/home/macagogo/Estudos/DIO/DesafioRPG/bin/Debug/net6.0/DesafioRPG.deps.json
+/home/macagogo/Estudos/DIO/DesafioRPG/bin/Debug/net6.0/DesafioRPG.runtimeconfig.json
+/home/macagogo/Estudos/DIO/DesafioRPG/bin/Debug/net6.0/DesafioRPG.dll
+/home/macagogo/Estudos/DIO/DesafioRPG/bin/Debug/net6.0/DesafioRPG.pdb
+/home/macagogo/Estudos/DIO/DesafioRPG/obj/Debug/net6.0/DesafioRPG.csproj.AssemblyReference.cache
+/home/macagogo/Estudos/DIO/DesafioRPG/obj/Debug/net6.0/DesafioRPG.GeneratedMSBuildEditorConfig.editorconfig
+/home/macagogo/Estudos/DIO/DesafioRPG/obj/Debug/net6.0/DesafioRPG.AssemblyInfoInputs.cache
+/home/macagogo/Estudos/DIO/DesafioRPG/obj/Debug/net6.0/DesafioRPG.AssemblyInfo.cs
+/home/macagogo/Estudos/DIO/DesafioRPG/obj/Debug/net6.0/DesafioRPG.csproj.CoreCompileInputs.cache
+/home/macagogo/Estudos/DIO/DesafioRPG/obj/Debug/net6.0/DesafioRPG.dll
+/home/macagogo/Estudos/DIO/DesafioRPG/obj/Debug/net6.0/refint/DesafioRPG.dll
+/home/macagogo/Estudos/DIO/DesafioRPG/obj/Debug/net6.0/DesafioRPG.pdb
+/home/macagogo/Estudos/DIO/DesafioRPG/obj/Debug/net6.0/DesafioRPG.genruntimeconfig.cache
+/home/macagogo/Estudos/DIO/DesafioRPG/obj/Debug/net6.0/ref/DesafioRPG.dll
